@@ -99,6 +99,7 @@ section.title div.title-div div.title-container ul {
 
 section.title img.profile {
     width: 20%;
+    border-radius: 400px;
 }
 
 .section-title {
